@@ -46,7 +46,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Testimonials"
-    url = "/history/"
+    url = "/testimonials/"
     weight = 3
 
 [[menu.main]]
